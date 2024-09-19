@@ -1,0 +1,17 @@
+{
+  "name": "pruefung_m324_aurel_bieri",
+  "version": "1.0.0",
+  "description": "Pruefung",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "eslint": "^9.10.0",
+    "mocha": "^10.7.3",
+    "prettier": "^3.3.3"
+  }
+}
