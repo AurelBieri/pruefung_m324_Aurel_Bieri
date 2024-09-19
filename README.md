@@ -1,1 +1,1 @@
-# pruefung_m324_Aurel_Bieri
+# Prüfung M324
